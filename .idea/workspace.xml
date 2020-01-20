@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83c57033-1b40-41eb-86b2-07b5ca8f5bce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MusicShop" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wd4QL8npm5O4FBho85fENkOUDP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="Items.Instruments" />
+      <recent name="Items.Accesories" />
+      <recent name="Items" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ShopTest.shouldRemoveItemFromStock">
+    <configuration name="All in MusicShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.shouldAddItemToStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="shouldAddItemToStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.shouldRemoveItemFromStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="shouldRemoveItemFromStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.shouldStartWithEmptyStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="shouldStartWithEmptyStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShopTest.shouldRemoveItemFromStock" />
+        <item itemvalue="JUnit.All in MusicShop" />
+        <item itemvalue="JUnit.ShopTest.shouldStartWithEmptyStock" />
+        <item itemvalue="JUnit.ShopTest.shouldAddItemToStock" />
+        <item itemvalue="JUnit.ShopTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83c57033-1b40-41eb-86b2-07b5ca8f5bce" name="Default Changelist" comment="" />
+      <created>1579466120499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579466120499</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1426" y="-25" key="#File_and_Code_Templates" timestamp="1579502264055">
+      <screen x="-2560" y="-466" width="2560" height="1417" />
+    </state>
+    <state x="-1426" y="-25" key="#File_and_Code_Templates/0.23.1440.877/-2560.-466.2560.1417@-2560.-466.2560.1417" timestamp="1579502264055" />
+    <state x="-1426" y="-25" key="#Project_Structure" timestamp="1579505041906">
+      <screen x="-2560" y="-466" width="2560" height="1417" />
+    </state>
+    <state x="-1426" y="-25" key="#Project_Structure/0.23.1440.877/-2560.-466.2560.1417@-2560.-466.2560.1417" timestamp="1579505041906" />
+    <state x="-1280" y="-72" key="#com.intellij.ide.util.MemberChooser" timestamp="1579504246538">
+      <screen x="-2560" y="-466" width="2560" height="1417" />
+    </state>
+    <state x="-1280" y="-72" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-2560.-466.2560.1417@-2560.-466.2560.1417" timestamp="1579504246538" />
+    <state x="-1480" y="192" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579468203734">
+      <screen x="-2560" y="-466" width="2560" height="1417" />
+    </state>
+    <state x="-1480" y="192" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.877/-2560.-466.2560.1417@-2560.-466.2560.1417" timestamp="1579468203734" />
+    <state x="-1291" y="115" width="484" height="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579471876236">
+      <screen x="-2560" y="-466" width="2560" height="1417" />
+    </state>
+    <state x="-1291" y="115" width="484" height="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877/-2560.-466.2560.1417@-2560.-466.2560.1417" timestamp="1579471876236" />
+    <state width="1594" height="203" key="GridCell.Tab.0.bottom" timestamp="1579506437879">
+      <screen x="-2560" y="-466" width="2560" height="1417" />
+    </state>
+    <state width="1594" height="203" key="GridCell.Tab.0.bottom/0.23.1440.877/-2560.-466.2560.1417@-2560.-466.2560.1417" timestamp="1579506437879" />
+    <state width="1594" height="203" key="GridCell.Tab.0.center" timestamp="1579506437878">
+      <screen x="-2560" y="-466" width="2560" height="1417" />
+    </state>
+    <state width="1594" height="203" key="GridCell.Tab.0.center/0.23.1440.877/-2560.-466.2560.1417@-2560.-466.2560.1417" timestamp="1579506437878" />
+    <state width="1594" height="203" key="GridCell.Tab.0.left" timestamp="1579506437878">
+      <screen x="-2560" y="-466" width="2560" height="1417" />
+    </state>
+    <state width="1594" height="203" key="GridCell.Tab.0.left/0.23.1440.877/-2560.-466.2560.1417@-2560.-466.2560.1417" timestamp="1579506437878" />
+    <state width="1594" height="203" key="GridCell.Tab.0.right" timestamp="1579506437878">
+      <screen x="-2560" y="-466" width="2560" height="1417" />
+    </state>
+    <state width="1594" height="203" key="GridCell.Tab.0.right/0.23.1440.877/-2560.-466.2560.1417@-2560.-466.2560.1417" timestamp="1579506437878" />
+    <state x="-1272" y="-40" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579504535895">
+      <screen x="-2560" y="-466" width="2560" height="1417" />
+    </state>
+    <state x="-1272" y="-40" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877/-2560.-466.2560.1417@-2560.-466.2560.1417" timestamp="1579504535895" />
+    <state x="-1468" y="-81" width="838" height="1032" key="search.everywhere.popup" timestamp="1579472189671">
+      <screen x="-2560" y="-466" width="2560" height="1417" />
+    </state>
+    <state x="-1468" y="-81" width="838" height="1032" key="search.everywhere.popup/0.23.1440.877/-2560.-466.2560.1417@-2560.-466.2560.1417" timestamp="1579472189671" />
+  </component>
+</project>
